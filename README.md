@@ -4,4 +4,4 @@
 
 ### build
 
-- `webpack`
+- `$ webpack [--watch]`
